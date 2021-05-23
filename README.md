@@ -19,6 +19,6 @@
 ## Tecnologias
 - Java
 - JPA
-- Spring bot
+- Spring boot
 - Lombok
 - MySQL
